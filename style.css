@@ -50,8 +50,8 @@ article {
     font-family: var(--font-corpo);
     font-weight: normal;
     padding-left: 30px;
-    padding-top: 80px;
-    padding-bottom: 100px;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
     font-size: 3.5vw;
     line-height: 2em;
 }
