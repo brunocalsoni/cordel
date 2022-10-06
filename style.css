@@ -58,10 +58,11 @@ article {
 
 #joaninha {
     background-image: url(imagens/background001.jpg);
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: right center;
+    box-shadow: inset 3px 6px 13px rgba(0, 0, 0, 0.407);
 }
 
 .flor {
@@ -69,6 +70,7 @@ article {
     color: white;
     padding: 5px;
     display: inline-block;
+    text-shadow: 1px 1px 0px black;
 }
 
 .paragrafo {
@@ -77,10 +79,11 @@ article {
 
 #papeis {
     background-image: url(imagens/background002.jpg);
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: right center;
+    box-shadow: inset 3px 6px 13px rgba(0, 0, 0, 0.407);
 }
 
 footer {
